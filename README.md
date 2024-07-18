@@ -1,2 +1,2 @@
-<h1>Link do portifolio:</h1>
+<h1>Link do portfolio:</h1>
 <p>https://yuridorigon.github.io/Portfolio-Alura/</p>
