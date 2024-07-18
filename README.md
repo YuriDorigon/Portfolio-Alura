@@ -1,2 +1,2 @@
-# portfolioAlura
- Portifolio criado de acordo com o oferecido no curso de HTML e CSS
+<h1>Link do portifolio:</h1>
+<p>https://yuridorigon.github.io/Portfolio-Alura/</p>
